@@ -10,5 +10,7 @@ Objectifs :
 * [Afficher les anomalies => si les personnages ne respectent pas les déplacements]
 * [Mettre au point un formulaire pour justifier les déplacements ? (exemple : Rêve)]
 * [Intégrer les chroniques au système]
+* [Afficher le lien qui permet d'accéder audit sujet]
 * [Afficher les rencontres entre les personnages, et à quel moment]
+* [Intégrer le suivi RP de Ludo en descriptions des sujets affichés sur la map ?]
 * [Suite à définir]
